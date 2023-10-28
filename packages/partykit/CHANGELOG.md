@@ -1,5 +1,17 @@
 # partykit
 
+## 0.0.33
+
+### Patch Changes
+
+- [#521](https://github.com/partykit/partykit/pull/521) [`0e5a1b6`](https://github.com/partykit/partykit/commit/0e5a1b68e41200f1ebbcff907644742a1aceed7b) Thanks [@threepointone](https://github.com/threepointone)! - update dependencies
+
+  Of note, this now uses miniflare's new coloured logging, so we can start deprecating our weird inspector layer
+
+- [#512](https://github.com/partykit/partykit/pull/512) [`059c133`](https://github.com/partykit/partykit/commit/059c133f1540b5eca6df325769017674a9d5cac5) Thanks [@threepointone](https://github.com/threepointone)! - Update dependencies
+
+- [#530](https://github.com/partykit/partykit/pull/530) [`12fc02a`](https://github.com/partykit/partykit/commit/12fc02ace0f08e80306a71e8807aedcf82588233) Thanks [@jevakallio](https://github.com/jevakallio)! - Allow passing request directly to stub.fetch
+
 ## 0.0.32
 
 ### Patch Changes
